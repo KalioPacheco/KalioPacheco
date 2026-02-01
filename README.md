@@ -1,56 +1,60 @@
 # 👋 Hi, I'm José Miguel Carrera
 
-Full-stack software engineer & product builder focused on turning ideas into scalable, real-world products.
+Senior Full-Stack Software Engineer with proven experience building and scaling production-grade web systems.
 
-I design, build, and scale web platforms end-to-end — from architecture and code to deployment and growth — with a strong emphasis on clean design, execution quality, and business impact.
-
----
-
-## 🚀 What I do
-- Build **scalable web products** and internal platforms
-- Design **clean architectures** (monoliths done right, microservices when it makes sense)
-- Lead projects from **idea → MVP → production**
-- Mentor developers and students in real-world engineering practices
+I design, build, and maintain software that survives real usage — focusing on clean architecture, sound technical decisions, and long-term maintainability. I’m comfortable owning systems end-to-end and being accountable for results.
 
 ---
 
-## 🧠 Tech stack
-**Frontend**
-- React, Next.js, Vite
-- TypeScript
-- Modern UI systems & design systems
-
-**Backend**
-- Node.js, Express, NestJS
-- REST APIs, authentication (JWT), RBAC
-- MySQL, PostgreSQL, MongoDB, Redis
-
-**DevOps & Infra**
-- Docker, Docker Compose
-- CI/CD pipelines
-- Cloud-native deployments
+## 🧩 What I’m good at
+- Designing systems that scale and remain maintainable
+- Turning ambiguous requirements into reliable software
+- Making technical decisions with long-term impact in mind
+- Improving existing codebases without breaking production
+- Balancing speed, quality, and business constraints
 
 ---
 
-## 🏗️ Philosophy
-- Execution > ideas  
-- Simple architectures scale better  
-- Tech must serve **people and business**, not the other way around  
-- If it can’t be maintained, it’s already broken  
+## 🏗️ Scope of experience
+- Greenfield projects (from scratch to production)
+- Legacy refactors and system stabilization
+- Authentication, authorization, and RBAC systems
+- Data modeling and performance-sensitive queries
+- CI/CD pipelines and containerized deployments
 
 ---
 
-## 📌 Current focus
-- Building and scaling SaaS and internal platforms  
-- Architecture, DevOps, and system design  
-- Teaching and mentoring future engineers  
+## 🛠️ Tech Stack
+React · Next.js · TypeScript · Node.js · Express · NestJS  
+MySQL · PostgreSQL · MongoDB · Redis  
+Docker · CI/CD · Cloud-native deployments
 
 ---
 
-## 📫 Let’s connect
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KalioPacheco&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KalioPacheco&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📌 What I bring to a team
+- Strong ownership and accountability
+- Clear communication and technical judgment
+- Ability to work independently and lead when needed
+- Focus on stability, quality, and delivery
+
+---
+
+## 📫 Contact
 - GitHub: you’re already here 🙂
 - LinkedIn: *([optional, add if you want](https://www.linkedin.com/in/jose-miguel-carrera-pacheco/))*
 
 ---
 
-> “Good software is built, not improvised.”
+> I’m comfortable owning systems, making decisions, and being accountable for results.
