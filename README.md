@@ -295,9 +295,7 @@ I’m especially interested in:
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalioPacheco&show_icons=true&theme=transparent&hide_border=true" alt="José Miguel Carrera GitHub stats" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KalioPacheco&show_icons=true&theme=transparent&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=KalioPacheco&theme=transparent&hide_border=true" /> </p>
 
 ---
 
